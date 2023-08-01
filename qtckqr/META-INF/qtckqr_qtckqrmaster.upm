@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<module name="wsh">
+	<public>
+		<component priority="0" singleton="true" remote="true" tx="CMT" supportAlias="true">
+			<interface>nc.itf.wsh.qtckqr.qtckqrmaster.IQtckqrMasterVOService</interface>
+			<implementation>nc.impl.wsh.qtckqr.qtckqrmaster.QtckqrMasterVOServiceImpl</implementation>
+		</component>
+	</public>
+</module>

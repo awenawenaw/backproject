@@ -1,0 +1,3 @@
+insert into BD_REFINFO ( CODE,ISTREELAZYLOAD,ISNEEDPARA,ISSPECIALREF,LAYER,REFTYPE,METADATANAMESPACE,METADATATYPENAME,MOBILEREFPATH,MODULENAME,NAME,PARA1,PARA2,PARA3,PK_COUNTRY,PK_INDUSTRY,PK_REFINFO,REFCLASS,REFPATH,REFSYSTEM,RESERV1,RESERV2,RESERV3,RESID,RESIDPATH,WHEREPART,WORKFLOWCONDITIONUSEUNITORG,TS,DR ) values  ( '80H39001','N',null,null,null,0,'lsgyjcd','lsgyjcdMaster',null,'wsh','临时工艺进程单_临时工艺进程单_默认表参照_lsgyjcd_lsgyjcdMaster',null,null,null,null,null,'1001A11LCP000002V7R4',null,'wsh/refer/lsgyjcd/lsgyjcdMasterDefaultGridRef/index',null,null,null,null,'lsgyjcd','lsgyjcd',null,null,'2023-07-29 08:46:30',0 ) 
+/
+

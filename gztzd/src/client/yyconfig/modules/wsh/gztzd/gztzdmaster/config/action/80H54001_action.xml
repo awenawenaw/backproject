@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+  <action>
+    <name>wsh.gztzd.SaveGztzdMasterVOAction</name>
+    <label>保存动作</label>
+    <clazz>nccloud.web.wsh.gztzd.gztzdmaster.action.SaveGztzdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.gztzd.LoadGztzdMasterVOAction</name>
+    <label>卡片查询动作</label>
+    <clazz>nccloud.web.wsh.gztzd.gztzdmaster.action.LoadGztzdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.gztzd.CopyGztzdMasterVOAction</name>
+    <label>复制</label>
+    <clazz>nccloud.web.wsh.gztzd.gztzdmaster.action.CopyGztzdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.gztzd.EditGztzdMasterVOAction</name>
+    <label>修改</label>
+    <clazz>nccloud.web.wsh.gztzd.gztzdmaster.action.EditGztzdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.gztzd.ListGztzdMasterVOAction</name>
+    <label>列表查询动作</label>
+    <clazz>nccloud.web.wsh.gztzd.gztzdmaster.action.ListGztzdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.gztzd.DeleteGztzdMasterVOAction</name>
+    <label>删除动作</label>
+    <clazz>nccloud.web.wsh.gztzd.gztzdmaster.action.DeleteGztzdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.gztzd.GztzdMasterDefaultGridRefAction</name>
+    <label>默认表型参照（非档案特性生成）</label>
+    <clazz>nccloud.web.wsh.gztzd.gztzdmaster.action.GztzdMasterDefaultGridRefAction</clazz>
+  </action>
+  <action>
+    <name>wsh.gztzd.AddGztzdMasterVOAction</name>
+    <label>新增动作</label>
+    <clazz>nccloud.web.wsh.gztzd.gztzdmaster.action.AddGztzdMasterVOAction</clazz>
+  </action>
+</actions>

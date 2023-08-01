@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+  <action>
+    <name>wsh.cprkd.SaveCprkdMasterVOAction</name>
+    <label>保存动作</label>
+    <clazz>nccloud.web.wsh.cprkd.cprkdmaster.action.SaveCprkdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.cprkd.LoadCprkdMasterVOAction</name>
+    <label>卡片查询动作</label>
+    <clazz>nccloud.web.wsh.cprkd.cprkdmaster.action.LoadCprkdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.cprkd.CopyCprkdMasterVOAction</name>
+    <label>复制</label>
+    <clazz>nccloud.web.wsh.cprkd.cprkdmaster.action.CopyCprkdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.cprkd.EditCprkdMasterVOAction</name>
+    <label>修改</label>
+    <clazz>nccloud.web.wsh.cprkd.cprkdmaster.action.EditCprkdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.cprkd.ListCprkdMasterVOAction</name>
+    <label>列表查询动作</label>
+    <clazz>nccloud.web.wsh.cprkd.cprkdmaster.action.ListCprkdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.cprkd.DeleteCprkdMasterVOAction</name>
+    <label>删除动作</label>
+    <clazz>nccloud.web.wsh.cprkd.cprkdmaster.action.DeleteCprkdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.cprkd.CprkdMasterDefaultGridRefAction</name>
+    <label>默认表型参照（非档案特性生成）</label>
+    <clazz>nccloud.web.wsh.cprkd.cprkdmaster.action.CprkdMasterDefaultGridRefAction</clazz>
+  </action>
+  <action>
+    <name>wsh.cprkd.AddCprkdMasterVOAction</name>
+    <label>新增动作</label>
+    <clazz>nccloud.web.wsh.cprkd.cprkdmaster.action.AddCprkdMasterVOAction</clazz>
+  </action>
+</actions>

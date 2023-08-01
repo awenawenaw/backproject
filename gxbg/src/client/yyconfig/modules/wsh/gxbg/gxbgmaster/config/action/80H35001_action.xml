@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+  <action>
+    <name>wsh.gxbg.SaveGxbgMasterVOAction</name>
+    <label>保存动作</label>
+    <clazz>nccloud.web.wsh.gxbg.gxbgmaster.action.SaveGxbgMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.gxbg.LoadGxbgMasterVOAction</name>
+    <label>卡片查询动作</label>
+    <clazz>nccloud.web.wsh.gxbg.gxbgmaster.action.LoadGxbgMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.gxbg.CopyGxbgMasterVOAction</name>
+    <label>复制</label>
+    <clazz>nccloud.web.wsh.gxbg.gxbgmaster.action.CopyGxbgMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.gxbg.EditGxbgMasterVOAction</name>
+    <label>修改</label>
+    <clazz>nccloud.web.wsh.gxbg.gxbgmaster.action.EditGxbgMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.gxbg.ListGxbgMasterVOAction</name>
+    <label>列表查询动作</label>
+    <clazz>nccloud.web.wsh.gxbg.gxbgmaster.action.ListGxbgMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.gxbg.DeleteGxbgMasterVOAction</name>
+    <label>删除动作</label>
+    <clazz>nccloud.web.wsh.gxbg.gxbgmaster.action.DeleteGxbgMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.gxbg.GxbgMasterDefaultGridRefAction</name>
+    <label>默认表型参照（非档案特性生成）</label>
+    <clazz>nccloud.web.wsh.gxbg.gxbgmaster.action.GxbgMasterDefaultGridRefAction</clazz>
+  </action>
+  <action>
+    <name>wsh.gxbg.AddGxbgMasterVOAction</name>
+    <label>新增动作</label>
+    <clazz>nccloud.web.wsh.gxbg.gxbgmaster.action.AddGxbgMasterVOAction</clazz>
+  </action>
+</actions>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<module name="wsh">
+	<public>
+		<component priority="0" singleton="true" remote="true" tx="CMT" supportAlias="true">
+			<interface>nc.itf.wsh.cprkd.cprkdmaster.ICprkdMasterVOService</interface>
+			<implementation>nc.impl.wsh.cprkd.cprkdmaster.CprkdMasterVOServiceImpl</implementation>
+		</component>
+	</public>
+</module>

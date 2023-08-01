@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>80H54001,80H54001L,80H54001P</appcode>
+  	<actions>
+       <action>wsh.gztzd.SaveGztzdMasterVOAction</action>
+       <action>wsh.gztzd.LoadGztzdMasterVOAction</action>
+       <action>wsh.gztzd.CopyGztzdMasterVOAction</action>
+       <action>wsh.gztzd.EditGztzdMasterVOAction</action>
+       <action>wsh.gztzd.ListGztzdMasterVOAction</action>
+       <action>wsh.gztzd.DeleteGztzdMasterVOAction</action>
+       <action>wsh.gztzd.AddGztzdMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsh.gztzd.GztzdMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

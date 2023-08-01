@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+  <action>
+    <name>wsh.xsckd.SaveXsckdMasterVOAction</name>
+    <label>保存动作</label>
+    <clazz>nccloud.web.wsh.xsckd.xsckdmaster.action.SaveXsckdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.xsckd.LoadXsckdMasterVOAction</name>
+    <label>卡片查询动作</label>
+    <clazz>nccloud.web.wsh.xsckd.xsckdmaster.action.LoadXsckdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.xsckd.CopyXsckdMasterVOAction</name>
+    <label>复制</label>
+    <clazz>nccloud.web.wsh.xsckd.xsckdmaster.action.CopyXsckdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.xsckd.EditXsckdMasterVOAction</name>
+    <label>修改</label>
+    <clazz>nccloud.web.wsh.xsckd.xsckdmaster.action.EditXsckdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.xsckd.ListXsckdMasterVOAction</name>
+    <label>列表查询动作</label>
+    <clazz>nccloud.web.wsh.xsckd.xsckdmaster.action.ListXsckdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.xsckd.DeleteXsckdMasterVOAction</name>
+    <label>删除动作</label>
+    <clazz>nccloud.web.wsh.xsckd.xsckdmaster.action.DeleteXsckdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.xsckd.XsckdMasterDefaultGridRefAction</name>
+    <label>默认表型参照（非档案特性生成）</label>
+    <clazz>nccloud.web.wsh.xsckd.xsckdmaster.action.XsckdMasterDefaultGridRefAction</clazz>
+  </action>
+  <action>
+    <name>wsh.xsckd.AddXsckdMasterVOAction</name>
+    <label>新增动作</label>
+    <clazz>nccloud.web.wsh.xsckd.xsckdmaster.action.AddXsckdMasterVOAction</clazz>
+  </action>
+</actions>

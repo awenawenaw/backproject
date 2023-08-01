@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>81H11018,81H11018L,81H11018P</appcode>
+  	<actions>
+       <action>wsht.zclht.SaveZclhtMasterVOAction</action>
+       <action>wsht.zclht.LoadZclhtMasterVOAction</action>
+       <action>wsht.zclht.CopyZclhtMasterVOAction</action>
+       <action>wsht.zclht.EditZclhtMasterVOAction</action>
+       <action>wsht.zclht.ListZclhtMasterVOAction</action>
+       <action>wsht.zclht.DeleteZclhtMasterVOAction</action>
+       <action>wsht.zclht.PFlowZclhtMasterVOAction</action>
+       <action>wsht.zclht.AddZclhtMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsht.zclht.ZclhtMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

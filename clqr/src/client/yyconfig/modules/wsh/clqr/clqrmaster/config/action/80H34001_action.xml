@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+  <action>
+    <name>wsh.clqr.SaveClqrMasterVOAction</name>
+    <label>保存动作</label>
+    <clazz>nccloud.web.wsh.clqr.clqrmaster.action.SaveClqrMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.clqr.LoadClqrMasterVOAction</name>
+    <label>卡片查询动作</label>
+    <clazz>nccloud.web.wsh.clqr.clqrmaster.action.LoadClqrMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.clqr.CopyClqrMasterVOAction</name>
+    <label>复制</label>
+    <clazz>nccloud.web.wsh.clqr.clqrmaster.action.CopyClqrMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.clqr.EditClqrMasterVOAction</name>
+    <label>修改</label>
+    <clazz>nccloud.web.wsh.clqr.clqrmaster.action.EditClqrMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.clqr.ListClqrMasterVOAction</name>
+    <label>列表查询动作</label>
+    <clazz>nccloud.web.wsh.clqr.clqrmaster.action.ListClqrMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.clqr.DeleteClqrMasterVOAction</name>
+    <label>删除动作</label>
+    <clazz>nccloud.web.wsh.clqr.clqrmaster.action.DeleteClqrMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.clqr.ClqrMasterDefaultGridRefAction</name>
+    <label>默认表型参照（非档案特性生成）</label>
+    <clazz>nccloud.web.wsh.clqr.clqrmaster.action.ClqrMasterDefaultGridRefAction</clazz>
+  </action>
+  <action>
+    <name>wsh.clqr.AddClqrMasterVOAction</name>
+    <label>新增动作</label>
+    <clazz>nccloud.web.wsh.clqr.clqrmaster.action.AddClqrMasterVOAction</clazz>
+  </action>
+</actions>

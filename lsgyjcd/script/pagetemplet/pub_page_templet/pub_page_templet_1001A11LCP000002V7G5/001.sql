@@ -1,0 +1,3 @@
+insert into PUB_PAGE_TEMPLET ( PK_PAGE_TEMPLET,CODE,NAME,RESID,CREATOR,CREATIONTIME,MODIFIER,MODIFIEDTIME,TEMPLETDESC,ISDEFAULT,PARENTID,PAGECODE,CLAZZ,METAID,HEADCODE,APPCODE,APPID,RESMODULE,PK_GROUP,PK_ORG,LAYOUT,PAGESTYLE,DR,TS ) values  ( '1001A11LCP000002V7G5','80H39001_lsgyjcdMaster','临时工艺进程单',null,null,null,null,null,null,'Y','root','80H39001_lsgyjcdMaster','nc.vo.lsgyjcd.lsgyjcd.AggLsgyjcdMasterVO','22eb313d-6e32-4749-a7c1-a90ebcbfbe3a','lsgyjcdMasterForm','80H39001',null,null,null,null,null,null,0,'2023-07-29 08:46:16' ) 
+/
+

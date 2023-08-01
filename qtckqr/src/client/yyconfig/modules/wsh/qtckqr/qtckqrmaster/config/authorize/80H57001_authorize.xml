@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>80H57001,80H57001L,80H57001P</appcode>
+  	<actions>
+       <action>wsh.qtckqr.SaveQtckqrMasterVOAction</action>
+       <action>wsh.qtckqr.LoadQtckqrMasterVOAction</action>
+       <action>wsh.qtckqr.CopyQtckqrMasterVOAction</action>
+       <action>wsh.qtckqr.EditQtckqrMasterVOAction</action>
+       <action>wsh.qtckqr.ListQtckqrMasterVOAction</action>
+       <action>wsh.qtckqr.DeleteQtckqrMasterVOAction</action>
+       <action>wsh.qtckqr.AddQtckqrMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsh.qtckqr.QtckqrMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>80H31101,80H31101L,80H31101P</appcode>
+  	<actions>
+       <action>wsh.cprkd.SaveCprkdMasterVOAction</action>
+       <action>wsh.cprkd.LoadCprkdMasterVOAction</action>
+       <action>wsh.cprkd.CopyCprkdMasterVOAction</action>
+       <action>wsh.cprkd.EditCprkdMasterVOAction</action>
+       <action>wsh.cprkd.ListCprkdMasterVOAction</action>
+       <action>wsh.cprkd.DeleteCprkdMasterVOAction</action>
+       <action>wsh.cprkd.AddCprkdMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsh.cprkd.CprkdMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

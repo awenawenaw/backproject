@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>80H41001,80H41001L,80H41001P</appcode>
+  	<actions>
+       <action>wsh.xsckd.SaveXsckdMasterVOAction</action>
+       <action>wsh.xsckd.LoadXsckdMasterVOAction</action>
+       <action>wsh.xsckd.CopyXsckdMasterVOAction</action>
+       <action>wsh.xsckd.EditXsckdMasterVOAction</action>
+       <action>wsh.xsckd.ListXsckdMasterVOAction</action>
+       <action>wsh.xsckd.DeleteXsckdMasterVOAction</action>
+       <action>wsh.xsckd.AddXsckdMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsh.xsckd.XsckdMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

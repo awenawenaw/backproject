@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>80H25001,80H25001L,80H25001P</appcode>
+  	<actions>
+       <action>wsh.zkdwx.SaveZkdwxMasterVOAction</action>
+       <action>wsh.zkdwx.LoadZkdwxMasterVOAction</action>
+       <action>wsh.zkdwx.CopyZkdwxMasterVOAction</action>
+       <action>wsh.zkdwx.EditZkdwxMasterVOAction</action>
+       <action>wsh.zkdwx.ListZkdwxMasterVOAction</action>
+       <action>wsh.zkdwx.DeleteZkdwxMasterVOAction</action>
+       <action>wsh.zkdwx.AddZkdwxMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsh.zkdwx.ZkdwxMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

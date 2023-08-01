@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>80H39001,80H39001L,80H39001P</appcode>
+  	<actions>
+       <action>wsh.lsgyjcd.SaveLsgyjcdMasterVOAction</action>
+       <action>wsh.lsgyjcd.LoadLsgyjcdMasterVOAction</action>
+       <action>wsh.lsgyjcd.CopyLsgyjcdMasterVOAction</action>
+       <action>wsh.lsgyjcd.PrintLsgyjcdMasterVOAction</action>
+       <action>wsh.lsgyjcd.EditLsgyjcdMasterVOAction</action>
+       <action>wsh.lsgyjcd.ListLsgyjcdMasterVOAction</action>
+       <action>wsh.lsgyjcd.DeleteLsgyjcdMasterVOAction</action>
+       <action>wsh.lsgyjcd.AddLsgyjcdMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsh.lsgyjcd.LsgyjcdMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

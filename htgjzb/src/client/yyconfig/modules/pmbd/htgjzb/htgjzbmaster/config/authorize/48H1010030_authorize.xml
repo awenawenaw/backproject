@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+    <authorize>
+        <appcode>48H1010030,48H1010030L,48H1010030P</appcode>
+        <actions>
+            <action>pmbd.htgjzb.SaveHtgjzbMasterVOAction</action>
+            <action>pmbd.htgjzb.LoadHtgjzbMasterVOAction</action>
+            <action>pmbd.htgjzb.CopyHtgjzbMasterVOAction</action>
+            <action>pmbd.htgjzb.EditHtgjzbMasterVOAction</action>
+            <action>pmbd.htgjzb.ListHtgjzbMasterVOAction</action>
+            <action>pmbd.htgjzb.DeleteHtgjzbMasterVOAction</action>
+            <action>pmbd.htgjzb.AddHtgjzbMasterVOAction</action>
+            <action>pmbd.htgjzb.SendHtgjzbMasterVOAction</action>
+        </actions>
+    </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>pmbd.htgjzb.HtgjzbMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

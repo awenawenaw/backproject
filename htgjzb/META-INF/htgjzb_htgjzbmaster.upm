@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<module name="pmbd">
+	<public>
+		<component priority="0" singleton="true" remote="true" tx="CMT" supportAlias="true">
+			<interface>nc.itf.pmbd.htgjzb.htgjzbmaster.IHtgjzbMasterVOService</interface>
+			<implementation>nc.impl.pmbd.htgjzb.htgjzbmaster.HtgjzbMasterVOServiceImpl</implementation>
+		</component>
+	</public>
+</module>

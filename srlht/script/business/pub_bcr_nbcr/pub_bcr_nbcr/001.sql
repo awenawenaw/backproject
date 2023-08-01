@@ -1,0 +1,3 @@
+insert into PUB_BCR_NBCR ( CODE,CODELENTH,PK_NBCR,CODESCOPE,CODESTYLE,METAID,NAME,ORGTYPE,DR,TS ) values  ( 'srlhtsrlht',40,'1001A11LCP000002GN9K','global','both','f6acb56e-fb6d-4726-8807-a7b43b56f423','收入类合同基本信息','BUSINESSUNIT00000000',null,null ) 
+/
+

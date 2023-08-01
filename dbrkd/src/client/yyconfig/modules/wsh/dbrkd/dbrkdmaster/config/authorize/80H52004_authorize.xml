@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>80H52004,80H52004L,80H52004P</appcode>
+  	<actions>
+       <action>wsh.dbrkd.SaveDbrkdMasterVOAction</action>
+       <action>wsh.dbrkd.LoadDbrkdMasterVOAction</action>
+       <action>wsh.dbrkd.CopyDbrkdMasterVOAction</action>
+       <action>wsh.dbrkd.EditDbrkdMasterVOAction</action>
+       <action>wsh.dbrkd.ListDbrkdMasterVOAction</action>
+       <action>wsh.dbrkd.DeleteDbrkdMasterVOAction</action>
+       <action>wsh.dbrkd.AddDbrkdMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsh.dbrkd.DbrkdMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

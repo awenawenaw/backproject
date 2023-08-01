@@ -1,0 +1,3 @@
+insert into BD_REFINFO ( CODE,ISTREELAZYLOAD,ISNEEDPARA,ISSPECIALREF,LAYER,REFTYPE,METADATANAMESPACE,METADATATYPENAME,MOBILEREFPATH,MODULENAME,NAME,PARA1,PARA2,PARA3,PK_COUNTRY,PK_INDUSTRY,PK_REFINFO,REFCLASS,REFPATH,REFSYSTEM,RESERV1,RESERV2,RESERV3,RESID,RESIDPATH,WHEREPART,WORKFLOWCONDITIONUSEUNITORG,TS,DR ) values  ( '80H38001','N',null,null,null,0,'qcysdgxwx','qcysdgxwxMaster',null,'wsh','器材验收单（工序外协）_器材验收单（工序外协）_默认表参照_qcysdgxwx_qcysdgxwxMaster',null,null,null,null,null,'1001A11LCP000002UVVO',null,'wsh/refer/qcysdgxwx/qcysdgxwxMasterDefaultGridRef/index',null,null,null,null,'qcysdgxwx','qcysdgxwx',null,null,'2023-07-28 15:55:50',0 ) 
+/
+

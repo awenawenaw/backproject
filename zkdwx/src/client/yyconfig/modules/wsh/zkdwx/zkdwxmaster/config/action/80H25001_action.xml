@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+  <action>
+    <name>wsh.zkdwx.SaveZkdwxMasterVOAction</name>
+    <label>保存动作</label>
+    <clazz>nccloud.web.wsh.zkdwx.zkdwxmaster.action.SaveZkdwxMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.zkdwx.LoadZkdwxMasterVOAction</name>
+    <label>卡片查询动作</label>
+    <clazz>nccloud.web.wsh.zkdwx.zkdwxmaster.action.LoadZkdwxMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.zkdwx.CopyZkdwxMasterVOAction</name>
+    <label>复制</label>
+    <clazz>nccloud.web.wsh.zkdwx.zkdwxmaster.action.CopyZkdwxMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.zkdwx.EditZkdwxMasterVOAction</name>
+    <label>修改</label>
+    <clazz>nccloud.web.wsh.zkdwx.zkdwxmaster.action.EditZkdwxMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.zkdwx.ListZkdwxMasterVOAction</name>
+    <label>列表查询动作</label>
+    <clazz>nccloud.web.wsh.zkdwx.zkdwxmaster.action.ListZkdwxMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.zkdwx.DeleteZkdwxMasterVOAction</name>
+    <label>删除动作</label>
+    <clazz>nccloud.web.wsh.zkdwx.zkdwxmaster.action.DeleteZkdwxMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.zkdwx.ZkdwxMasterDefaultGridRefAction</name>
+    <label>默认表型参照（非档案特性生成）</label>
+    <clazz>nccloud.web.wsh.zkdwx.zkdwxmaster.action.ZkdwxMasterDefaultGridRefAction</clazz>
+  </action>
+  <action>
+    <name>wsh.zkdwx.AddZkdwxMasterVOAction</name>
+    <label>新增动作</label>
+    <clazz>nccloud.web.wsh.zkdwx.zkdwxmaster.action.AddZkdwxMasterVOAction</clazz>
+  </action>
+</actions>

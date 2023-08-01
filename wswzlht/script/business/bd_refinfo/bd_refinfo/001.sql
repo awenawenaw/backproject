@@ -1,0 +1,3 @@
+insert into BD_REFINFO ( CODE,ISTREELAZYLOAD,ISNEEDPARA,ISSPECIALREF,LAYER,REFTYPE,METADATANAMESPACE,METADATATYPENAME,MOBILEREFPATH,MODULENAME,NAME,PARA1,PARA2,PARA3,PK_COUNTRY,PK_INDUSTRY,PK_REFINFO,REFCLASS,REFPATH,REFSYSTEM,RESERV1,RESERV2,RESERV3,RESID,RESIDPATH,WHEREPART,WORKFLOWCONDITIONUSEUNITORG,TS,DR ) values  ( '81H11016','N',null,null,null,0,'wsht','wswzlhtMaster',null,'wsht','无收无支类合同_无收无支类合同基本信息_默认表参照_wswzlht_wswzlhtMaster',null,null,null,null,null,'1001AA1LCP000001OZIX',null,'wsht/refer/wswzlht/wswzlhtMasterDefaultGridRef/index',null,null,null,null,'wswzlht','wswzlht',null,null,'2023-07-15 18:26:02',0 ) 
+/
+

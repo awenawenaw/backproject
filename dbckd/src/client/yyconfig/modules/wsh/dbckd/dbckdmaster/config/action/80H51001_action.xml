@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+  <action>
+    <name>wsh.dbckd.SaveDbckdMasterVOAction</name>
+    <label>保存动作</label>
+    <clazz>nccloud.web.wsh.dbckd.dbckdmaster.action.SaveDbckdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.dbckd.LoadDbckdMasterVOAction</name>
+    <label>卡片查询动作</label>
+    <clazz>nccloud.web.wsh.dbckd.dbckdmaster.action.LoadDbckdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.dbckd.CopyDbckdMasterVOAction</name>
+    <label>复制</label>
+    <clazz>nccloud.web.wsh.dbckd.dbckdmaster.action.CopyDbckdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.dbckd.EditDbckdMasterVOAction</name>
+    <label>修改</label>
+    <clazz>nccloud.web.wsh.dbckd.dbckdmaster.action.EditDbckdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.dbckd.ListDbckdMasterVOAction</name>
+    <label>列表查询动作</label>
+    <clazz>nccloud.web.wsh.dbckd.dbckdmaster.action.ListDbckdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.dbckd.DeleteDbckdMasterVOAction</name>
+    <label>删除动作</label>
+    <clazz>nccloud.web.wsh.dbckd.dbckdmaster.action.DeleteDbckdMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.dbckd.DbckdMasterDefaultGridRefAction</name>
+    <label>默认表型参照（非档案特性生成）</label>
+    <clazz>nccloud.web.wsh.dbckd.dbckdmaster.action.DbckdMasterDefaultGridRefAction</clazz>
+  </action>
+  <action>
+    <name>wsh.dbckd.AddDbckdMasterVOAction</name>
+    <label>新增动作</label>
+    <clazz>nccloud.web.wsh.dbckd.dbckdmaster.action.AddDbckdMasterVOAction</clazz>
+  </action>
+</actions>

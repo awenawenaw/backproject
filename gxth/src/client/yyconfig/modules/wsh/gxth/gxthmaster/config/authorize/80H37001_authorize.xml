@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>80H37001,80H37001L,80H37001P</appcode>
+  	<actions>
+       <action>wsh.gxth.SaveGxthMasterVOAction</action>
+       <action>wsh.gxth.LoadGxthMasterVOAction</action>
+       <action>wsh.gxth.CopyGxthMasterVOAction</action>
+       <action>wsh.gxth.EditGxthMasterVOAction</action>
+       <action>wsh.gxth.ListGxthMasterVOAction</action>
+       <action>wsh.gxth.DeleteGxthMasterVOAction</action>
+       <action>wsh.gxth.AddGxthMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsh.gxth.GxthMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

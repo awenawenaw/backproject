@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+  <action>
+    <name>wsh.qtckqr.SaveQtckqrMasterVOAction</name>
+    <label>保存动作</label>
+    <clazz>nccloud.web.wsh.qtckqr.qtckqrmaster.action.SaveQtckqrMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.qtckqr.LoadQtckqrMasterVOAction</name>
+    <label>卡片查询动作</label>
+    <clazz>nccloud.web.wsh.qtckqr.qtckqrmaster.action.LoadQtckqrMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.qtckqr.CopyQtckqrMasterVOAction</name>
+    <label>复制</label>
+    <clazz>nccloud.web.wsh.qtckqr.qtckqrmaster.action.CopyQtckqrMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.qtckqr.EditQtckqrMasterVOAction</name>
+    <label>修改</label>
+    <clazz>nccloud.web.wsh.qtckqr.qtckqrmaster.action.EditQtckqrMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.qtckqr.ListQtckqrMasterVOAction</name>
+    <label>列表查询动作</label>
+    <clazz>nccloud.web.wsh.qtckqr.qtckqrmaster.action.ListQtckqrMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.qtckqr.DeleteQtckqrMasterVOAction</name>
+    <label>删除动作</label>
+    <clazz>nccloud.web.wsh.qtckqr.qtckqrmaster.action.DeleteQtckqrMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.qtckqr.QtckqrMasterDefaultGridRefAction</name>
+    <label>默认表型参照（非档案特性生成）</label>
+    <clazz>nccloud.web.wsh.qtckqr.qtckqrmaster.action.QtckqrMasterDefaultGridRefAction</clazz>
+  </action>
+  <action>
+    <name>wsh.qtckqr.AddQtckqrMasterVOAction</name>
+    <label>新增动作</label>
+    <clazz>nccloud.web.wsh.qtckqr.qtckqrmaster.action.AddQtckqrMasterVOAction</clazz>
+  </action>
+</actions>

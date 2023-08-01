@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<module name="wsh">
+	<public>
+		<component priority="0" singleton="true" remote="true" tx="CMT" supportAlias="true">
+			<interface>nc.itf.wsh.zkdwx.zkdwxmaster.IZkdwxMasterVOService</interface>
+			<implementation>nc.impl.wsh.zkdwx.zkdwxmaster.ZkdwxMasterVOServiceImpl</implementation>
+		</component>
+	</public>
+</module>

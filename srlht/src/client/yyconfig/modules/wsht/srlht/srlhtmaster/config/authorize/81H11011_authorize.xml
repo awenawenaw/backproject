@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>81H11011,81H11011L,81H11011P</appcode>
+  	<actions>
+       <action>wsht.srlht.SaveSrlhtMasterVOAction</action>
+       <action>wsht.srlht.LoadSrlhtMasterVOAction</action>
+       <action>wsht.srlht.CopySrlhtMasterVOAction</action>
+       <action>wsht.srlht.EditSrlhtMasterVOAction</action>
+       <action>wsht.srlht.ListSrlhtMasterVOAction</action>
+       <action>wsht.srlht.DeleteSrlhtMasterVOAction</action>
+       <action>wsht.srlht.PFlowSrlhtMasterVOAction</action>
+       <action>wsht.srlht.AddSrlhtMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsht.srlht.SrlhtMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

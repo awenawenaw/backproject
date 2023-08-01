@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>80H51001,80H51001L,80H51001P</appcode>
+  	<actions>
+       <action>wsh.dbckd.SaveDbckdMasterVOAction</action>
+       <action>wsh.dbckd.LoadDbckdMasterVOAction</action>
+       <action>wsh.dbckd.CopyDbckdMasterVOAction</action>
+       <action>wsh.dbckd.EditDbckdMasterVOAction</action>
+       <action>wsh.dbckd.ListDbckdMasterVOAction</action>
+       <action>wsh.dbckd.DeleteDbckdMasterVOAction</action>
+       <action>wsh.dbckd.AddDbckdMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsh.dbckd.DbckdMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

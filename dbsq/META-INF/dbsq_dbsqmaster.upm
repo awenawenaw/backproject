@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="gb2312"?>
+<module name="wsh">
+	<public>
+		<component priority="0" singleton="true" remote="true" tx="CMT" supportAlias="true">
+			<interface>nc.itf.wsh.dbsq.dbsqmaster.IDbsqMasterVOService</interface>
+			<implementation>nc.impl.wsh.dbsq.dbsqmaster.DbsqMasterVOServiceImpl</implementation>
+		</component>
+	</public>
+</module>

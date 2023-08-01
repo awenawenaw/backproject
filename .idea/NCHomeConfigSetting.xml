@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="NCHomeConfig">
+    <option name="DBs" value="DB2 V9.7,SQL Server 2008 R2,Oracle 10,Oracle 11" />
+    <option name="OSs" value="Linux,Windows,AIX,Solaris" />
+    <option name="department" value="客开" />
+    <option name="exportPatchPath" value="E:\work\万山补丁\20230729" />
+    <option name="homePath" value="E:\work\yunhe\NCC\home\home" />
+    <option name="loginToken" value="" />
+    <option name="middlewares" value="Weblogic,Websphere 7.0,Yonyou Middleware V5,Yonyou Middleware V6" />
+    <option name="provider" value="haobowen" />
+    <option name="tempHomePath" value="E:\work\yunhe\NCC\home\home" />
+    <option name="versions" value="1811,1903,2005,2105,2111" />
+  </component>
+</project>

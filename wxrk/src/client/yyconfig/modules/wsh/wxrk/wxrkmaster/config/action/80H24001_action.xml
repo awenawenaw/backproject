@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+  <action>
+    <name>wsh.wxrk.SaveWxrkMasterVOAction</name>
+    <label>保存动作</label>
+    <clazz>nccloud.web.wsh.wxrk.wxrkmaster.action.SaveWxrkMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.wxrk.LoadWxrkMasterVOAction</name>
+    <label>卡片查询动作</label>
+    <clazz>nccloud.web.wsh.wxrk.wxrkmaster.action.LoadWxrkMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.wxrk.CopyWxrkMasterVOAction</name>
+    <label>复制</label>
+    <clazz>nccloud.web.wsh.wxrk.wxrkmaster.action.CopyWxrkMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.wxrk.EditWxrkMasterVOAction</name>
+    <label>修改</label>
+    <clazz>nccloud.web.wsh.wxrk.wxrkmaster.action.EditWxrkMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.wxrk.ListWxrkMasterVOAction</name>
+    <label>列表查询动作</label>
+    <clazz>nccloud.web.wsh.wxrk.wxrkmaster.action.ListWxrkMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.wxrk.DeleteWxrkMasterVOAction</name>
+    <label>删除动作</label>
+    <clazz>nccloud.web.wsh.wxrk.wxrkmaster.action.DeleteWxrkMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.wxrk.WxrkMasterDefaultGridRefAction</name>
+    <label>默认表型参照（非档案特性生成）</label>
+    <clazz>nccloud.web.wsh.wxrk.wxrkmaster.action.WxrkMasterDefaultGridRefAction</clazz>
+  </action>
+  <action>
+    <name>wsh.wxrk.AddWxrkMasterVOAction</name>
+    <label>新增动作</label>
+    <clazz>nccloud.web.wsh.wxrk.wxrkmaster.action.AddWxrkMasterVOAction</clazz>
+  </action>
+</actions>

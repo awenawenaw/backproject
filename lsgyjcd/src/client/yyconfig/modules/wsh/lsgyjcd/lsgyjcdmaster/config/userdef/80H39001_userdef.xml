@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<userdefs>
+	<userdef>
+		<name>lsgyjcd.lsgyjcdMaster</name>
+		<prefix>vdef</prefix>
+		<processor>nccloud.web.uapbd.commons.web.UserDefCommonProcessor</processor>
+		<defrulecode></defrulecode>
+	</userdef>
+	<userdef>
+		<name>lsgyjcd.lsgyjcdGxsm</name>
+		<prefix>def</prefix>
+		<processor>nccloud.web.uapbd.commons.web.UserDefCommonProcessor</processor>
+		<defrulecode></defrulecode>
+	</userdef>
+	<userdef>
+		<name>lsgyjcd.lsgyjcdGxsm</name>
+		<prefix>inspector</prefix>
+		<processor>nccloud.web.uapbd.commons.web.UserDefCommonProcessor</processor>
+		<defrulecode></defrulecode>
+	</userdef>
+</userdefs>

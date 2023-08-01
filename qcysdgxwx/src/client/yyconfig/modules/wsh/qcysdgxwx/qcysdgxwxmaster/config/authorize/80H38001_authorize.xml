@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>80H38001,80H38001L,80H38001P</appcode>
+  	<actions>
+       <action>wsh.qcysdgxwx.SaveQcysdgxwxMasterVOAction</action>
+       <action>wsh.qcysdgxwx.LoadQcysdgxwxMasterVOAction</action>
+       <action>wsh.qcysdgxwx.CopyQcysdgxwxMasterVOAction</action>
+       <action>wsh.qcysdgxwx.EditQcysdgxwxMasterVOAction</action>
+       <action>wsh.qcysdgxwx.ListQcysdgxwxMasterVOAction</action>
+       <action>wsh.qcysdgxwx.DeleteQcysdgxwxMasterVOAction</action>
+       <action>wsh.qcysdgxwx.AddQcysdgxwxMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsh.qcysdgxwx.QcysdgxwxMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

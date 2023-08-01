@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>80H35001,80H35001L,80H35001P</appcode>
+  	<actions>
+       <action>wsh.gxbg.SaveGxbgMasterVOAction</action>
+       <action>wsh.gxbg.LoadGxbgMasterVOAction</action>
+       <action>wsh.gxbg.CopyGxbgMasterVOAction</action>
+       <action>wsh.gxbg.EditGxbgMasterVOAction</action>
+       <action>wsh.gxbg.ListGxbgMasterVOAction</action>
+       <action>wsh.gxbg.DeleteGxbgMasterVOAction</action>
+       <action>wsh.gxbg.AddGxbgMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsh.gxbg.GxbgMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

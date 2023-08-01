@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>80H53001,80H53001L,80H53001P</appcode>
+  	<actions>
+       <action>wsh.hwtzd.SaveHwtzdMasterVOAction</action>
+       <action>wsh.hwtzd.LoadHwtzdMasterVOAction</action>
+       <action>wsh.hwtzd.CopyHwtzdMasterVOAction</action>
+       <action>wsh.hwtzd.EditHwtzdMasterVOAction</action>
+       <action>wsh.hwtzd.ListHwtzdMasterVOAction</action>
+       <action>wsh.hwtzd.DeleteHwtzdMasterVOAction</action>
+       <action>wsh.hwtzd.AddHwtzdMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsh.hwtzd.HwtzdMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

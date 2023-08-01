@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>80H55001,80H55001L,80H55001P</appcode>
+  	<actions>
+       <action>wsh.dbsq.SaveDbsqMasterVOAction</action>
+       <action>wsh.dbsq.LoadDbsqMasterVOAction</action>
+       <action>wsh.dbsq.CopyDbsqMasterVOAction</action>
+       <action>wsh.dbsq.EditDbsqMasterVOAction</action>
+       <action>wsh.dbsq.ListDbsqMasterVOAction</action>
+       <action>wsh.dbsq.DeleteDbsqMasterVOAction</action>
+       <action>wsh.dbsq.AddDbsqMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsh.dbsq.DbsqMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

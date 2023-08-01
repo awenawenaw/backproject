@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>80H24001,80H24001L,80H24001P</appcode>
+  	<actions>
+       <action>wsh.wxrk.SaveWxrkMasterVOAction</action>
+       <action>wsh.wxrk.LoadWxrkMasterVOAction</action>
+       <action>wsh.wxrk.CopyWxrkMasterVOAction</action>
+       <action>wsh.wxrk.EditWxrkMasterVOAction</action>
+       <action>wsh.wxrk.ListWxrkMasterVOAction</action>
+       <action>wsh.wxrk.DeleteWxrkMasterVOAction</action>
+       <action>wsh.wxrk.AddWxrkMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsh.wxrk.WxrkMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

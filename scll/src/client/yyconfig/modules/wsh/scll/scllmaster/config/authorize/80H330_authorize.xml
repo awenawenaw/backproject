@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>80H330,80H330L,80H330P</appcode>
+  	<actions>
+       <action>wsh.scll.SaveScllMasterVOAction</action>
+       <action>wsh.scll.LoadScllMasterVOAction</action>
+       <action>wsh.scll.CopyScllMasterVOAction</action>
+       <action>wsh.scll.ListSlaveScllMasterVOAction</action>
+       <action>wsh.scll.EditScllMasterVOAction</action>
+       <action>wsh.scll.ListScllMasterVOAction</action>
+       <action>wsh.scll.DeleteScllMasterVOAction</action>
+       <action>wsh.scll.AddScllMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsh.scll.ScllMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

@@ -1,0 +1,3 @@
+insert into BD_REFINFO ( CODE,ISTREELAZYLOAD,ISNEEDPARA,ISSPECIALREF,LAYER,REFTYPE,METADATANAMESPACE,METADATATYPENAME,MOBILEREFPATH,MODULENAME,NAME,PARA1,PARA2,PARA3,PK_COUNTRY,PK_INDUSTRY,PK_REFINFO,REFCLASS,REFPATH,REFSYSTEM,RESERV1,RESERV2,RESERV3,RESID,RESIDPATH,WHEREPART,WORKFLOWCONDITIONUSEUNITORG,TS,DR ) values  ( '80H57001','N',null,null,null,0,'qtckqr','qtckqrMaster',null,'wsh','其他出库确认_其他出库确认主实体_默认表参照_qtckqr_qtckqrMaster',null,null,null,null,null,'1001A11LCP000002Q2MH',null,'wsh/refer/qtckqr/qtckqrMasterDefaultGridRef/index',null,null,null,null,'qtckqr','qtckqr',null,null,'2023-07-26 16:44:17',0 ) 
+/
+

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+  <action>
+    <name>wsh.dbsq.SaveDbsqMasterVOAction</name>
+    <label>保存动作</label>
+    <clazz>nccloud.web.wsh.dbsq.dbsqmaster.action.SaveDbsqMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.dbsq.LoadDbsqMasterVOAction</name>
+    <label>卡片查询动作</label>
+    <clazz>nccloud.web.wsh.dbsq.dbsqmaster.action.LoadDbsqMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.dbsq.CopyDbsqMasterVOAction</name>
+    <label>复制</label>
+    <clazz>nccloud.web.wsh.dbsq.dbsqmaster.action.CopyDbsqMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.dbsq.EditDbsqMasterVOAction</name>
+    <label>修改</label>
+    <clazz>nccloud.web.wsh.dbsq.dbsqmaster.action.EditDbsqMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.dbsq.ListDbsqMasterVOAction</name>
+    <label>列表查询动作</label>
+    <clazz>nccloud.web.wsh.dbsq.dbsqmaster.action.ListDbsqMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.dbsq.DeleteDbsqMasterVOAction</name>
+    <label>删除动作</label>
+    <clazz>nccloud.web.wsh.dbsq.dbsqmaster.action.DeleteDbsqMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsh.dbsq.DbsqMasterDefaultGridRefAction</name>
+    <label>默认表型参照（非档案特性生成）</label>
+    <clazz>nccloud.web.wsh.dbsq.dbsqmaster.action.DbsqMasterDefaultGridRefAction</clazz>
+  </action>
+  <action>
+    <name>wsh.dbsq.AddDbsqMasterVOAction</name>
+    <label>新增动作</label>
+    <clazz>nccloud.web.wsh.dbsq.dbsqmaster.action.AddDbsqMasterVOAction</clazz>
+  </action>
+</actions>

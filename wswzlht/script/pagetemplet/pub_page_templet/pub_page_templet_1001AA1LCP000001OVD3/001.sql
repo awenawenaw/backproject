@@ -1,0 +1,3 @@
+insert into PUB_PAGE_TEMPLET ( PK_PAGE_TEMPLET,CODE,NAME,RESID,CREATOR,CREATIONTIME,MODIFIER,MODIFIEDTIME,TEMPLETDESC,ISDEFAULT,PARENTID,PAGECODE,CLAZZ,METAID,HEADCODE,APPCODE,APPID,RESMODULE,PK_GROUP,PK_ORG,LAYOUT,PAGESTYLE,DR,TS ) values  ( '1001AA1LCP000001OVD3','81H11016_wswzlhtMaster','无收无支类合同基本信息',null,null,null,null,null,null,'Y','root','81H11016_wswzlhtMaster','nc.vo.wsht.wswzlht.AggWswzlhtMasterVO','dd533f56-f461-4644-beea-d593a35defee','wswzlhtMasterForm','81H11016',null,null,null,null,null,null,0,'2023-07-15 18:21:13' ) 
+/
+

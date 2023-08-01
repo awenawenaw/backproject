@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<authorizes>
+  <authorize>
+  	<appcode>80H36001,80H36001L,80H36001P</appcode>
+  	<actions>
+       <action>wsh.gxzyd.SaveGxzydMasterVOAction</action>
+       <action>wsh.gxzyd.LoadGxzydMasterVOAction</action>
+       <action>wsh.gxzyd.CopyGxzydMasterVOAction</action>
+       <action>wsh.gxzyd.PrintGxzydMasterVOAction</action>
+       <action>wsh.gxzyd.EditGxzydMasterVOAction</action>
+       <action>wsh.gxzyd.ListGxzydMasterVOAction</action>
+       <action>wsh.gxzyd.DeleteGxzydMasterVOAction</action>
+       <action>wsh.gxzyd.AddGxzydMasterVOAction</action>
+	</actions>
+   </authorize>
+    <authorize>
+        <appcode>*</appcode>
+        <actions>
+            <action>wsh.gxzyd.GxzydMasterDefaultGridRefAction</action>
+        </actions>
+    </authorize>
+</authorizes>

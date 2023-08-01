@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="NCCModule" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/dept/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dept/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dept/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/xsckd/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/xsckd/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/xsckd/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wswzlht/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wswzlht/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wswzlht/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/srlht/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/srlht/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/srlht/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ysyzlht/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ysyzlht/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ysyzlht/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/zclht/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/zclht/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/zclht/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wxrk/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wxrk/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wxrk/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbckd/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbckd/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbckd/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/zkdwx/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/zkdwx/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/zkdwx/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbrkd/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbrkd/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbrkd/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbsq/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbsq/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/dbsq/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gztzd/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gztzd/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gztzd/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hwtzd/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hwtzd/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hwtzd/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/htgjzb/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/htgjzb/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/htgjzb/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qtckqr/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qtckqr/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qtckqr/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qtcksq/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qtcksq/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qtcksq/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/clqr/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/clqr/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/clqr/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gxbg/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gxbg/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gxbg/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gxth/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gxth/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gxth/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gxzyd/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gxzyd/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/gxzyd/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qcysdgxwx/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qcysdgxwx/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/qcysdgxwx/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scll/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scll/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/scll/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cprkd/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cprkd/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/cprkd/src/public" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lsgyjcd/src/client" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lsgyjcd/src/private" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lsgyjcd/src/public" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="DB_Drive_Library" level="project" />
+    <orderEntry type="library" name="Ant_Library" level="project" />
+    <orderEntry type="library" name="Product_Common_Library" level="project" />
+    <orderEntry type="library" name="Middleware_Library" level="project" />
+    <orderEntry type="library" name="Framework_Library" level="project" />
+    <orderEntry type="library" name="Extension_Public_Library" level="project" />
+    <orderEntry type="library" name="Hyext_Public_Library" level="project" />
+    <orderEntry type="library" name="Module_Public_Library" level="project" />
+    <orderEntry type="library" name="Extension_Client_Library" level="project" />
+    <orderEntry type="library" name="Hyext_Client_Library" level="project" />
+    <orderEntry type="library" name="Module_Client_Library" level="project" />
+    <orderEntry type="library" name="Extension_Private_Library" level="project" />
+    <orderEntry type="library" name="Hyext_Private_Library" level="project" />
+    <orderEntry type="library" name="Module_Private_Library" level="project" />
+    <orderEntry type="library" name="Module_Lang_Library" level="project" />
+    <orderEntry type="library" name="Generated_EJB" level="project" />
+    <orderEntry type="library" name="NCCloud_Library" level="project" />
+    <orderEntry type="library" name="resources" level="project" />
+  </component>
+</module>

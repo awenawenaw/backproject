@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<userdefs>
+	<userdef>
+		<name>qtcksq.qtcksqSlave0</name>
+		<prefix>def</prefix>
+		<processor>nccloud.web.uapbd.commons.web.UserDefCommonProcessor</processor>
+		<defrulecode></defrulecode>
+	</userdef>
+	<userdef>
+		<name>qtcksq.qtcksqMaster</name>
+		<prefix>def</prefix>
+		<processor>nccloud.web.uapbd.commons.web.UserDefCommonProcessor</processor>
+		<defrulecode></defrulecode>
+	</userdef>
+</userdefs>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+  <action>
+    <name>wsht.wswzlht.SaveWswzlhtMasterVOAction</name>
+    <label>保存动作</label>
+    <clazz>nccloud.web.wsht.wswzlht.wswzlhtmaster.action.SaveWswzlhtMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsht.wswzlht.LoadWswzlhtMasterVOAction</name>
+    <label>卡片查询动作</label>
+    <clazz>nccloud.web.wsht.wswzlht.wswzlhtmaster.action.LoadWswzlhtMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsht.wswzlht.CopyWswzlhtMasterVOAction</name>
+    <label>复制</label>
+    <clazz>nccloud.web.wsht.wswzlht.wswzlhtmaster.action.CopyWswzlhtMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsht.wswzlht.EditWswzlhtMasterVOAction</name>
+    <label>修改</label>
+    <clazz>nccloud.web.wsht.wswzlht.wswzlhtmaster.action.EditWswzlhtMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsht.wswzlht.ListWswzlhtMasterVOAction</name>
+    <label>列表查询动作</label>
+    <clazz>nccloud.web.wsht.wswzlht.wswzlhtmaster.action.ListWswzlhtMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsht.wswzlht.DeleteWswzlhtMasterVOAction</name>
+    <label>删除动作</label>
+    <clazz>nccloud.web.wsht.wswzlht.wswzlhtmaster.action.DeleteWswzlhtMasterVOAction</clazz>
+  </action>
+  <action>
+    <name>wsht.wswzlht.WswzlhtMasterDefaultGridRefAction</name>
+    <label>默认表型参照（非档案特性生成）</label>
+    <clazz>nccloud.web.wsht.wswzlht.wswzlhtmaster.action.WswzlhtMasterDefaultGridRefAction</clazz>
+  </action>
+  <action>
+    <name>wsht.wswzlht.AddWswzlhtMasterVOAction</name>
+    <label>新增动作</label>
+    <clazz>nccloud.web.wsht.wswzlht.wswzlhtmaster.action.AddWswzlhtMasterVOAction</clazz>
+  </action>
+</actions>
